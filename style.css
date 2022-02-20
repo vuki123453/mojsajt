@@ -1,0 +1,41 @@
+body{background-image: url(pozadina.jpg) ;
+}
+
+.uvod{background-color:#00bbff ;opacity: 0.9;
+	border: solid 2px black;
+}
+
+.naslov{font-size: 40px;
+}
+
+.ikona{float: right;border-radius: 7px;
+}
+
+.topnav{
+	background-color: #00bbff ;
+	overflow: hidden;
+
+
+
+}
+
+.topnav a{
+	float: left;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+
+}
+.topnav a:hover{
+	background-color: black;
+	color: #00bbff;
+}
+.topnav a:active{
+	background-color: white;
+	color: #00bbff;
+
+
+
+}
